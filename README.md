@@ -1,7 +1,7 @@
 # Genome_Informatics_project
 In this repo are stored calculation scripts used as part of project for Genomics Informatics course.
 
-snp_metrics.ipynb is currently our finall script. Other two are similiar and they are represent previous versions of our final script.
+snp_metrics.ipynb is currently our finall script. Other two are similiar and they are representing previous versions of our final script.
 
 ###### Here is info about project:
 
