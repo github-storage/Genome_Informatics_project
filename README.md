@@ -9,15 +9,15 @@ snp_metrics.ipynb is currently our finall script. Other two are similiar and the
 
 ### Table of content
 
-* [Task](###Task)
-* [Variant Calling](###Variant-Calling)
-* [Tools](###Tools)
-* [GATK](###GATK)
-* [Freebayes](###Freebayes)
-* [Generated VCF files](###Generated-VCF-files)
-* [Manual calculation  of metrics](###Manual-calculation-of-metrics)
-* [Comparison of  metrics calculated by different tools (Graphs)](###Comparison-of-metrics-calculated-by-different-tools-(Graphs))
-* [Resource used:](###Resource-used:)
+* [Task](https://github.com/github-storage/Genome_Informatics_project/blob/main/README.md#task)
+* [Variant Calling](https://github.com/github-storage/Genome_Informatics_project/blob/main/README.md#variant-calling)
+* [Tools](https://github.com/github-storage/Genome_Informatics_project/blob/main/README.md#tools)
+* [GATK](https://github.com/github-storage/Genome_Informatics_project/blob/main/README.md#gatk)
+* [Freebayes](https://github.com/github-storage/Genome_Informatics_project/blob/main/README.md#freebayes)
+* [Generated VCF files](https://github.com/github-storage/Genome_Informatics_project/blob/main/README.md#generated-vcf-files)
+* [Manual calculation  of metrics](https://github.com/github-storage/Genome_Informatics_project/blob/main/README.md#manual-calculation-of-metrics)
+* [Comparison of  metrics calculated by different tools (Graphs)](https://github.com/github-storage/Genome_Informatics_project/blob/main/README.md#comparison-of--metrics-calculated-by-different-tools-graphs)
+* [Resource used:](https://github.com/github-storage/Genome_Informatics_project/blob/main/README.md#resource-used)
 
 ### Task
 
