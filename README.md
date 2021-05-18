@@ -87,7 +87,7 @@ snp_metrics.ipynb is currently our finall script. Other two are similiar and the
 
  For additional details please see our [YouTube chanel](https://www.youtube.com/watch?v=yEsDhHBVxRI&t=99s).
    
- And also here is presentation in this repo: [powerpoint](./VCF-comparasion.pptx)
+ And also here is presentation in this repo: [powerpoint](./VCF comparasion.pptx)
 
 ### Resource used:
 [Frebayes](https://github.com/freebayes/freebayes)
