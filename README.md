@@ -9,7 +9,7 @@ snp_metrics.ipynb is currently our finall script. Other two are similiar and the
 
 ### Table of content
 
-* [Task](Task)
+* [Task](###Task)
 * [Variant Calling](Variant-Calling)
 * [Tools](Tools)
 * [GATK](GATK)
