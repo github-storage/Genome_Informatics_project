@@ -83,7 +83,7 @@ snp_metrics.ipynb is currently our finall script. Other two are similiar and the
    
 ### Comparison of  metrics calculated by different tools (Graphs)
 
- ![tools_metrics.png](./images/tools_metrics.png)
+ ![tools_metrics.png](./images/tools_precison_recall_f1_score.png)
 
  For additional details please see our [YouTube chanel](https://www.youtube.com/watch?v=yEsDhHBVxRI&t=99s).
    
